@@ -26,5 +26,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O PetLife é um site criado para um PetShop.
 
+## 🔖 Layout
+
+Você pode visualizar o projeto através [DESSE LINK](https://luizmiguelfb.github.io/PETLIFE/).
+
 ---
+
 Desenvolvido por @l_miguel_fb na trilha Start na Programação da OneBitCode
+
